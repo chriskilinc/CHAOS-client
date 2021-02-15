@@ -2,11 +2,11 @@
 Chris Home Automation OS - Client
 
 ## Developmet
-Using webpack dev server.
+Using webpack dev server.  
 ``` > npm start```
 
 ## Build
-Build to ```./dist``` folder.
+Build to ```./dist``` folder.  
 ``` > npm build```
 
 ## Docker
