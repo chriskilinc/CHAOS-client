@@ -1,5 +1,5 @@
 # CHAOS - Client
-Chris Home Automation OS - Client
+Vanilla Javascript client for the Chris Home Automation OS.
 
 ## Developmet
 Using webpack dev server.  
